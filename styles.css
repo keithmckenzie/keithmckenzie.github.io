@@ -16,6 +16,7 @@ body {
 
 .navbar img {
   height: 40px;
+  filter: invert(1); /* Make logo white */
 }
 
 .navbar a {
